@@ -68,10 +68,9 @@
 
 | &nbsp; | Project | Stack | Link |
 |--------|---------|-------|------|
-| ⚡ | **SPARKTRON'2k26** — National Level Symposium Website | React · TypeScript · Tailwind | [Live ↗](https://ece-sparktron.vercel.app) · [Repo](https://github.com/codefuser/sympo) |
 | 🎓 | **Student Management System** — Full CRUD for student records | Java · JDBC · MySQL | [Repo](https://github.com/codefuser/student-management-system-java) |
 | 🏦 | **Secure Banking System** — Account management & transactions | Java · OOP · MySQL | [Repo](https://github.com/codefuser/secure-banking-system-java) |
-
+| ⚡ | **SPARKTRON'2k26** — National Level Symposium Website | React · TypeScript · Tailwind | [Live ↗](https://ece-sparktron.vercel.app) · [Repo](https://github.com/codefuser/sympo) |
 </div>
 
 ---
