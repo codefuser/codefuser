@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b35,50:f7c59f,100:ff6b35&height=200&section=header&text=Joseph&fontSize=80&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=68&descSize=22&descColor=fff3e0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b35,50:f7c59f,100:ff6b35&height=200&section=header&text=CodeFuser&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Joseph%20Samuvel%20%7C%20Full%20Stack%20Developer&descAlignY=68&descSize=20&descColor=fff3e0"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1200&color=FF6B35&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+%7C+Backend;React+%2B+TypeScript+%7C+Frontend;Building+real-world+projects+%F0%9F%9A%80;Always+shipping%2C+always+learning+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1200&color=FF6B35&center=true&vCenter=true&width=560&lines=Java+%2B+Spring+Boot+%7C+Backend;React+%2B+TypeScript+%7C+Frontend;Building+real-world+software+projects+%F0%9F%9A%80;Always+learning%2C+building%2C+shipping+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -18,15 +18,19 @@
 
 ---
 
-## 👋 About Me
+# 👋 Hi, I'm Joseph Samuvel
 
-> Self-driven Full Stack Developer from **Tamil Nadu, India** — passionate about building clean, functional applications from backend logic to frontend UI.
+I'm **Joseph Samuvel**, a Full Stack Developer and the creator behind **CodeFuser**.
 
-- 🔭 Currently working on **Spring Boot REST APIs**
-- 🌱 Learning **Backend Architecture** and **Database Design**
-- 💬 Ask me about **Java, React, TypeScript**
-- ⚡ I build real-world projects — not just tutorials
-- 🤝 Open to collaborations and opportunities
+**CodeFuser** is my personal developer identity where I build and share real-world software projects, AI-powered tools, web applications, backend systems, automation projects, and open-source experiments.
+
+I use this GitHub profile to document what I build, what I learn, and the projects I work on.
+
+- 🔭 Currently working with **Java, Spring Boot, REST APIs, and MySQL**
+- 🌱 Learning **Backend Architecture, Database Design, and Full Stack Development**
+- 💻 Interested in **Java, React, TypeScript, JavaScript, Python, AI, and Automation**
+- 🚀 Building real-world applications instead of only tutorial projects
+- 🤝 Open to collaboration, open-source projects, and developer opportunities
 
 ---
 
@@ -51,7 +55,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=ff6b35)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=for-the-badge&logo=bootstrap&logoColor=ff6b35)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-ff6b35?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ff6b35?style=for-the-badge&logo=github&logoColor=white)
@@ -66,43 +70,28 @@
 
 <div align="center">
 
-| &nbsp; | Project | Stack | Link |
-|--------|---------|-------|------|
-| 🎓 | **Student Management System** — Full CRUD for student records | Java · JDBC · MySQL | [Repo](https://github.com/codefuser/student-management-system-java) |
-| 🏦 | **Secure Banking System** — Account management & transactions | Java · OOP · MySQL | [Repo](https://github.com/codefuser/secure-banking-system-java) |
-| ⚡ | **SPARKTRON'2k26** — National Level Symposium Website | React · TypeScript · Tailwind | [Live ↗](https://ece-sparktron.vercel.app) · [Repo](https://github.com/codefuser/sympo) |
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=codefuser&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff&ring_color=ff6b35" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefuser&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff6b35&text_color=ffffff" />
-
-<br/>
-
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=codefuser&hide_border=true&background=1a1a1a&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=ff6b35&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=ff6b35" />
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🎥 **[Recordlyn](https://github.com/codefuser/Recordlyn)** | Screen recording project for capturing and managing recordings | JavaScript · Web |
+| 📽️ **[Vision Projector](https://github.com/codefuser/vision-projector)** | Church projection software for songs, Bible verses, media, themes, and live projection | TypeScript · Vite |
+| 🌾 **[Farmer Selling App](https://github.com/codefuser/Farmer_selling_app)** | Marketplace concept connecting farmers and buyers more directly | Full Stack |
+| ⚡ **[SPARKTRON](https://github.com/codefuser/sympo)** | National-level symposium website and event platform | React · TypeScript · Tailwind |
+| 🏦 **[Secure Banking System](https://github.com/codefuser/secure-banking-system-java)** | Java banking application for account management and transactions | Java · OOP · MySQL |
+| 📍 **[Smart Distance Mapper](https://github.com/codefuser/Smart-Distance-Mapper)** | Distance and mapping application | Web · JavaScript |
 
 </div>
 
 ---
 
-## 📬 Connect
+## 📌 What You'll Find Here
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff6b35?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/joseph-fullstack/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/codefuser)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:1a1a1a&height=120&section=footer&animation=fadeIn"/>
-</div>
+```text
+CodeFuser
+│
+├── Java & Spring Boot
+├── Full Stack Web Applications
+├── React & TypeScript
+├── AI & Automation Projects
+├── Database Projects
+├── College & Real-World Projects
+└── Open Source Experiments
